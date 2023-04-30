@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>test</title>
+      <link href="/blog/test/"/>
+      <url>/blog/test/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="测试标题"><a href="#测试标题" class="headerlink" title="测试标题"></a>测试标题</h1><ol><li>A:<ul><li>a</li></ul></li><li>B:<ul><li>b</li></ul></li></ol>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
